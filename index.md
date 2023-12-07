@@ -18,4 +18,4 @@ I liked doing lab 4 part 2 because I found the game to be very fun to code. It w
 
 * Lab 7
 
-Lab 7 was very challenging but very fun at the same time. We had to figure out when you were available to park at certain spots. It was fun coding the parking.cc file, using && and || to figure out if you could park.
+Lab 7 was very challenging but very fun at the same time. We had to figure out when you were available to park at certain spots. It was fun coding the parking.cc file, using "&&" and "||" to figure out if you could park.
